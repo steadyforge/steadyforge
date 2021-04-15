@@ -1,0 +1,30 @@
+works fucker fuck xxxxxxxxxx
+works fucker retropiemenu xxxxxxxxxx
+works fucker xxxxxxxxxx
+works fucker retropiemenu xxxxxxxxxx
+works fucker xxxxxxxxxx
+works fucker retropiemenu xxxxxxxxxx
+works fucker xxxxxxxxxx 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/stop-music.sh 4 5
+works fucker retropiemenu xxxxxxxxxx
+works fucker xxxxxxxxxx 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/rpsetup.rp 4 5
+works fucker retropiemenu xxxxxxxxxx
+works fucker xxxxxxxxxx 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/audiosettings.rp 4 5
+works fucker retropiemenu xxxxxxxxxx
+works fucker xxxxxxxxxx 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/audiosettings.rp 4 5
+works fucker retropiemenu xxxxxxxxxx
+works fucker xxxxxxxxxx 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/audiosettings.rp 4 5
+yupppp 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/audiosettings.rp 4 5
+works fucker retropiemenu xxxxxxxxxx
+works fucker xxxxxxxxxx 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/audiosettings.rp 4 5
+yupppp 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/audiosettings.rp 4 5
+works fucker retropiemenu xxxxxxxxxx
+works fucker xxxxxxxxxx 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/audiosettings.rp 4 5
+yupppp 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/audiosettings.rp 4 5
+works fucker retropiemenu xxxxxxxxxx
+works fucker xxxxxxxxxx 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/audiosettings.rp 4 5
+yupppp 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/audiosettings.rp 4 5
+works fucker retropiemenu xxxxxxxxxx
+works fucker xxxxxxxxxx 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/audiosettings.rp 4 5
+yupppp 1 retropiemenu 2 launch 3 /home/pi/RetroPie/retropiemenu/audiosettings.rp 4 5
+shit sudo sh /home/pi/RetroPie-Setup/retropie_packages.sh retropiemenu launch /home/pi/RetroPie/retropiemenu/audiosettings.rp
+works fucker retropiemenu xxxxxxxxxx
