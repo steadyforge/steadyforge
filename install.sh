@@ -4,6 +4,7 @@ echo "installing Steayforge 0.0.2.."
 sleep 1
 echo "creating root directories"
 mkdir ~/RetroPie/music/
+mkdir ~/RetroPie/videoloadingscreens/
 echo "copying files.."
 sudo cp steadyforge/autostart.sh /opt/retropie/configs/all/
 sudo cp steadyforge/smb.conf /etc/samba/
