@@ -12,7 +12,7 @@ fi
 if [ -f "$ROTATE" ]; then
 VAR=270
 else
-VAR=270
+VAR=0
 fi
 
 if [ -f "$VIDEOLAUNCH" ]; then
