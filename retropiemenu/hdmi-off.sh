@@ -7,6 +7,7 @@ sudo cp /home/pi/steadyforge/rotate/runcommand2.sh /opt/retropie/supplementary/r
 sudo chmod 777 /opt/retropie/supplementary/runcommand/runcommand.sh
 sudo pkill -f emulationstation
 cp /home/pi/steadyforge/backup/rotateon.sh /home/pi/steadyforge/boot/rotateon.sh
-sudo -u pi emulationstation --screenrotate 3 --screensize 470 655 #auto
+emulationstation --screenrotate 3 --screensize 1020 1275
+#sudo -u pi emulationstation --screenrotate 3 --screensize 470 655 #auto
 whiptail --msgbox "HDMI: disabled." 10 20 &lt;/dev/tty &gt;/dev/tty
 sleep 1
