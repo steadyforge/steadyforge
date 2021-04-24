@@ -4,14 +4,22 @@ ROTATE=/home/pi/steadyforge/boot/rotateon.sh
 MUSIC=/home/pi/steadyforge/boot/musicon.sh
 
 if [ -f "$ROTATE" ]; then
-VAR=/home/pi/RetroPie/splashscreens/steadyforge2.mp4
+VAR=270
 else
-VAR=/home/pi/RetroPie/splashscreens/steadyforge.mp4
+VAR=0
 fi
 
+
+#if [ -f "$ROTATE" ]; then
+#VAR=/home/pi/RetroPie/splashscreens/steadyforge2.mp4
+#else
+#VAR=/home/pi/RetroPie/splashscreens/steadyforge.mp4
+#fi
+
 if [ -f "$VIDEO" ]; then
-omxplayer -o alsa $VAR
+omxplayer --aspect-mode stretch --orientation $VAR --blank /home/pi/RetroPie/splashscreens/steadyforge.mp4
 fi
+
 if [ -f "$MUSIC" ]; then
 sudo mpg123 -Z /home/pi/RetroPie/music/*.mp3 >/dev/null 2>&1 &
 fi
@@ -24,7 +32,7 @@ sudo cp /home/pi/steadyforge/rotate/retroarch2.cfg /opt/retropie/configs/all/ret
 cp /home/pi/steadyforge/runcommand.sh /opt/retropie/supplementary/runcommand/
 #sudo chmod -x /opt/retropie/supplementary/runcommand/runcommand.sh
 #sudo chmod 777 /opt/retropie/supplementary/runcommand/runcommand.sh
-emulationstation --screenrotate 3 --screensize 470 655
+emulationstation --screenrotate 3 --screensize 1020 1275
 else
 sudo rm /opt/retropie/configs/all/retroarch.cfg
 sudo cp /home/pi/steadyforge/rotate/retroarch.cfg /opt/retropie/configs/all/retroarch.cfg
