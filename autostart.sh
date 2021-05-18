@@ -24,7 +24,7 @@ then
 sudo rm /opt/retropie/configs/all/retroarch.cfg
 sudo cp /home/pi/steadyforge/rotate/retroarch2.cfg /opt/retropie/configs/all/retroarch.cfg
 cp /home/pi/steadyforge/runcommand.sh /opt/retropie/supplementary/runcommand/
-emulationstation --screenrotate 3 --screensize 470 660
+emulationstation --screenrotate 3 --screensize 1020 1275 #auto
 else
 sudo rm /opt/retropie/configs/all/retroarch.cfg
 sudo cp /home/pi/steadyforge/rotate/retroarch.cfg /opt/retropie/configs/all/retroarch.cfg
