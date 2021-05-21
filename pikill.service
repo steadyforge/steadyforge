@@ -1,0 +1,12 @@
+[Service]
+ExecStart=/usr/bin/python /home/pi/steadyforge/pikill.py
+WorkingDirectory=/home/pi/steadyforge/
+Restart=always
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=pikill
+User=root
+Group=root
+
+[Install]
+WantedBy=multi-user.target
